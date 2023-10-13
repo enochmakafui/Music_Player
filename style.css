@@ -1,0 +1,19 @@
+body{
+    background-color: #121212
+}
+.music{
+    background-color:white;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    gap:20px
+
+}
+button{
+    margin-top: 10px;
+    width: 300px;
+    text-align: center;
+}
